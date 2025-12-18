@@ -12,6 +12,7 @@ A Python project that encrypts and decrypts images using pixel manipulation and 
 ---
 
 ## ⚙️Tech Stack  
+
 * Python  
 * NumPy  
 * Pillow 
